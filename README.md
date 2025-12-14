@@ -1,5 +1,15 @@
 # Asto Gear - Computer Accessories E-commerce Platform
 
+🌐 **Live Demo:** [astogear.com](https://astogear.com)
+
+---
+
+## Full Demo Video
+
+[Watch the complete walkthrough on YouTube](https://www.youtube.com/watch?v=LKBMF5jg0k8)
+
+---
+
 ## 📺 Demo
 
 ### Authentication
@@ -98,13 +108,6 @@
 - **Docker** & **Docker Compose** - Containerization
 - **Nginx** - Reverse proxy and static file serving
 
----
-
-## Full Demo Video
-
-[Watch the complete walkthrough on YouTube](https://www.youtube.com/watch?v=LKBMF5jg0k8)
-
----
 
 ## Contact
 
