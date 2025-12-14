@@ -2,25 +2,25 @@
 
 ## 📺 Demo
 
-### 🔐 Authentication
+### Authentication
 ![User Authentication](authentication.gif)
 
-### 🏠 Homepage & Product Browsing
+### Homepage & Product Browsing
 ![Homepage and Product Browsing](homepage_productBrows.gif)
 
-### 🛍️ Product Details
+### Product Details
 ![Product Detail Page](product_detail.gif)
 
-### 🛒 Shopping Cart & Checkout
+### Shopping Cart & Checkout
 ![Checkout Process](checkout_payment.gif)
 
-### 💳 Payment Integration
+### Payment Integration
 ![Bakong KHQR Payment](checkout_payment.gif)
 
-### 🔔 Real-time Notifications
+### Real-time Notifications
 ![WebSocket Real-time Notifications](real_time_notification.gif)
 
-### 👨‍💼 Seller Dashboard
+### Seller Dashboard
 ![Admin Dashboard](seller_dashboard.gif)
 
 ---
@@ -100,7 +100,7 @@
 
 ---
 
-## 📹 Full Demo Video
+## Full Demo Video
 
 [Watch the complete walkthrough on YouTube](https://www.youtube.com/watch?v=LKBMF5jg0k8)
 
