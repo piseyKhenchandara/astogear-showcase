@@ -184,7 +184,7 @@ The diagram above illustrates the complete system architecture of Asto Gear, sho
 - **Nodemailer** - Email notifications
 - **Bakong API** - Payment integration
 - **JWT** - Token-based authentication
-- **Cloudinary** - Image storage and optimization
+- **Cloudflare R2** - Image storage and optimization
 
 ### Frontend
 - **React** with **Vite** - Fast development environment
@@ -195,6 +195,7 @@ The diagram above illustrates the complete system architecture of Asto Gear, sho
 ### DevOps
 - **Docker** & **Docker Compose** - Containerization
 - **Nginx** - Reverse proxy and static file serving
+- ** CI/CD** - github action
 
 ---
 
@@ -209,9 +210,9 @@ For any inquiries or support, reach out via:
 ## Acknowledgments
 
 - Bakong API for payment integration
-- Cloudinary for image management
-- Firebase for authentication services
-- All open-source libraries used in this project
+- Cloudflare R2 for image management
+
+
 
 ---
 
@@ -219,3 +220,4 @@ For any inquiries or support, reach out via:
 
 
 This project is for showcase purposes. All rights reserved.
+
